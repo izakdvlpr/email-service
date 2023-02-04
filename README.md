@@ -1,3 +1,3 @@
 # email-service
 
-📧 A simple email sending service.
+A simple email sending service.
